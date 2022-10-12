@@ -1,0 +1,15 @@
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.csproj.AssemblyReference.cache
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.AssemblyInfoInputs.cache
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.AssemblyInfo.cs
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\polid\source\repos\algorithms\algorithms\bin\Debug\net6.0\algorithms.exe
+C:\Users\polid\source\repos\algorithms\algorithms\bin\Debug\net6.0\algorithms.deps.json
+C:\Users\polid\source\repos\algorithms\algorithms\bin\Debug\net6.0\algorithms.runtimeconfig.json
+C:\Users\polid\source\repos\algorithms\algorithms\bin\Debug\net6.0\algorithms.dll
+C:\Users\polid\source\repos\algorithms\algorithms\bin\Debug\net6.0\algorithms.pdb
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.dll
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\refint\algorithms.dll
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.pdb
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\algorithms.genruntimeconfig.cache
+C:\Users\polid\source\repos\algorithms\algorithms\obj\Debug\net6.0\ref\algorithms.dll
